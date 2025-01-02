@@ -1,6 +1,6 @@
 ## 👋인사잘해팀 : HR(human resources)
 ### 프로젝트 소개
-<img width="800" alt="2024-12-12_3 23 22" src="https://github.com/user-attachments/assets/3e7c4c4a-80fc-41b7-957d-63eea3b659eb" />
+<img width="100%" alt="2024-12-12_3 23 22" src="https://github.com/user-attachments/assets/3e7c4c4a-80fc-41b7-957d-63eea3b659eb" />
 
 > 인사 및 근태 관리를 통합한 사내 HR 프로그램!
 
